@@ -1,3 +1,4 @@
+#exercise 03 of 100daysofpython
 print(">>>>>>>>>>  Welcome To KBC")
 questions=[
     ["Who is the Prime Minister of India ?","Narendra Modi","Rahul Gandhi","Arvind Kejriwal","Manmohan singh","a"],
