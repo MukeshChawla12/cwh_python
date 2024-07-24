@@ -28,6 +28,3 @@ for i in range(0,len(questions)):
         print("Wrong Answer")
         break
 print("You are going with rs",money)
-         
-    
-
