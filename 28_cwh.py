@@ -1,3 +1,4 @@
+##Docstrings in python
 def square(n):
     '''Takes a number n and gives square
     of the number
