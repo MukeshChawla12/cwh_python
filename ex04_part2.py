@@ -6,7 +6,7 @@ if(coding=="1"):
     for word in words:
         if(len(word)>=3):
             r1="jkl"
-            r2="poi"
+            r2="urt"
             word= r1 +word[1:]+word[0]+r2
             nwords.append(word)
             
@@ -25,6 +25,3 @@ else:
             word=word[::-1]
             nwords.append(word)
     print(" ".join(nwords))
-
-
-
